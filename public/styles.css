@@ -1,0 +1,62 @@
+html body{
+    background-color: #32CD32;
+background-image: url('https://www.transparenttextures.com/patterns/football-no-lines.png');
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: "McLaren", cursive;
+    font-size: 250;
+    font-weight: bold;
+    color: #eee;
+}
+
+.container{
+    padding: 3%;
+}
+.navbar-item{
+    font-size: large;
+    font-weight: bold;
+}
+nav.navbar {
+    color:#eee;
+    margin: auto -16px;
+    padding: .5rem ;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  }
+
+  .navbar-brand {
+    color: #eee;
+    font-family: "McLaren", cursive;
+    font-weight: 300;
+  }
+
+  .navbar-item{
+    color: #eee;
+    font-weight: 150;
+    font-family: "Montserrat", sans-serif;
+  }
+
+  
+  thead{
+    color: rgb(12, 2, 2);
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    font-weight: 100;
+  }
+  tbody{
+    color: rgb(9, 8, 8);
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    font-weight: 100;
+  }
+
+  .card{
+    margin: 4rem auto;
+    padding: 3% 1% 0 0;
+    background-color: #eee;
+  }
+
+  form label{
+    color:rgb(9, 8, 8);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 400;
+    font-weight: bold;
+  }
